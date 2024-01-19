@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import "reset.css";
+@import "component/status-bar.css";
+@import "screen/welcome-header.css";
+@import "screen/login-form.css";
+@import "variable.css";
+@import "component/nav-bar.css";
+@import "component/screen-header.css";
+
+body{
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: 'Fira Sans', sans-serif;}
+
+
+
